@@ -37,4 +37,5 @@ cd
 git clone git@github.com:jamesmarlowe/ngx-zmq-sample.git
 cd ngx-zmq-sample
 bash restart.sh
+curl -X POST -d 'test' localhost/
 ```
